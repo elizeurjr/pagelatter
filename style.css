@@ -47,8 +47,9 @@ body {
 }
 
 .conteudo-principal-imagem {
-    width: 63px;
-    height: 63px;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
 }
 
 .conteudo-principal {
@@ -87,7 +88,7 @@ body {
     border-radius: 20px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 25px;
     color: #2f2325;
 }
 
