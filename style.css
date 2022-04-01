@@ -70,12 +70,13 @@ body {
     font-weight: 400;
     font-size: 64px;
     color: #fff2e7;
+    padding-top: 20px;
 }
 
 .conteudo-principal-escrito-subtitulo {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 15px;
     color: #fff2e7;
 }
 
