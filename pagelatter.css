@@ -47,12 +47,13 @@ body {
 }
 
 .conteudo-principal-imagem {
-    width: 150px;
-    height: 150px;
-    border-radius: 75px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
 }
 
 .conteudo-principal {
+    padding-top: 20px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -104,8 +105,9 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin-top: 80px;
-    margin-bottom: 50px;
+    margin: 60px auto;
+    /*margin-top: 80px;
+    margin-bottom: 50px;*/
 }
 
 .conteudo-secundario-titulo {
